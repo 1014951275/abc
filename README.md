@@ -9,9 +9,11 @@
 https://xymm.tv12.xyz/live.txt=你的授权码
 
 📺 体育赛事 M3U订阅：
+
 https://xymm.tv12.xyz/live.m3u=你的授权码
 
 🔑 授权码领取：
+
 http://45.192.97.170:5222/2
 
 ⚠️ 特别说明：
